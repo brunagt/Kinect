@@ -1,0 +1,26 @@
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Release\MainWindow.baml
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Release\MainWindow.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Release\App.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Release\TrackJoints_MarkupCompile.cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Release\TrackJoints.g.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Release\TrackJoints.Properties.Resources.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Release\TrackJoints.csproj.GenerateResource.Cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\bin\Release\TrackJoints.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\bin\Release\TrackJoints.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Release\TrackJoints.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Release\TrackJoints.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\SkeletonViewer.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\SkeletonViewer.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\TrackJoints_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\TrackJoints_MarkupCompile.lref
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\TrackJoints.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\TrackJoints.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\bin\Release\TrackJoints.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\bin\Release\TrackJoints.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\TrackJoints.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\TrackJoints.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Release\TrackJoints.csproj.GenerateResource.Cache

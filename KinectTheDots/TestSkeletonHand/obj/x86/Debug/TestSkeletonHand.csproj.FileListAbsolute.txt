@@ -1,0 +1,76 @@
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\bin\Debug\TestSkeletonHand.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\bin\Debug\TestSkeletonHand.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand_MarkupCompile.cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.g.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.Properties.Resources.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.csproj.GenerateResource.Cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.pdb
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\bin\Debug\TestSkeletonHand.exe
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\bin\Debug\TestSkeletonHand.pdb
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand_MarkupCompile.cache
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.g.resources
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.Properties.Resources.resources
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.csproj.GenerateResource.Cache
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.exe
+C:\Users\Bruna\documents\visual studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonHand\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\bin\Debug\TestSkeletonHand.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\bin\Debug\TestSkeletonHand.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\bin\Debug\TestSkeletonHand.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\bin\Debug\TestSkeletonHand.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\TestKinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\bin\Debug\TestSkeletonHand.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\bin\Debug\TestSkeletonHand.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\SkeletonViewer.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\SkeletonViewer.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand_MarkupCompile.lref
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\KinectTheDots\TestSkeletonHand\obj\x86\Debug\TestSkeletonHand.csproj.GenerateResource.Cache

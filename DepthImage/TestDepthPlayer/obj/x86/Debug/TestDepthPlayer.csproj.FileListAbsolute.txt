@@ -1,0 +1,51 @@
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\bin\Debug\TestDepthPlayer.exe.config
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\bin\Debug\TestDepthPlayer.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\bin\Debug\TestDepthPlayer.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\bin\Debug\Coding4Fun.Kinect.WinForm.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer_MarkupCompile.cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.g.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.Properties.Resources.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.csproj.GenerateResource.Cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\bin\Debug\TestDepthPlayer.exe.config
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\bin\Debug\TestDepthPlayer.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\bin\Debug\TestDepthPlayer.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\bin\Debug\Coding4Fun.Kinect.WinForm.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\bin\Debug\TestDepthPlayer.exe.config
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\bin\Debug\TestDepthPlayer.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\bin\Debug\TestDepthPlayer.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\bin\Debug\Coding4Fun.Kinect.WinForm.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthPlayer\TestDepthPlayer\obj\x86\Debug\TestDepthPlayer.csproj.GenerateResource.Cache

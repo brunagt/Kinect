@@ -1,0 +1,17 @@
+c:\users\bruna\documents\visual studio 2012\Projects\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+c:\users\bruna\documents\visual studio 2012\Projects\TCPServer\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TCPServer\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TCPServer_HelloAndroidHelloKinect\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TCPServer_HelloAndroidHelloKinect\TCPServer\obj\Debug\TCPServer.exe
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TCPServer_HelloAndroidHelloKinect\TCPServer\obj\Debug\TCPServer.pdb
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TCPServer_HelloAndroidHelloKinect\TCPServer\bin\Debug\TCPServer.exe
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TCPServer_HelloAndroidHelloKinect\TCPServer\bin\Debug\TCPServer.pdb
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TCPServer_HelloAndroidHelloKinect\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Dropbox\gihub\Kinect\TCPServer_HelloAndroidHelloKinect\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Bruna\Dropbox\gihub\Kinect\TCPServer_HelloAndroidHelloKinect\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Bruna\Dropbox\gihub\Kinect\TCPServer_HelloAndroidHelloKinect\TCPServer\obj\Debug\TCPServer.pdb

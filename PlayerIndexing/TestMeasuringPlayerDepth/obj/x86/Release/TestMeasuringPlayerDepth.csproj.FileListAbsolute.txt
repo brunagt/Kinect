@@ -1,0 +1,15 @@
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\obj\x86\Release\MainWindow.baml
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\obj\x86\Release\MainWindow.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\obj\x86\Release\App.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\obj\x86\Release\TestMeasuringPlayerDepth_MarkupCompile.cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\obj\x86\Release\TestMeasuringPlayerDepth.g.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\obj\x86\Release\TestMeasuringPlayerDepth.Properties.Resources.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\obj\x86\Release\TestMeasuringPlayerDepth.csproj.GenerateResource.Cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\bin\Release\TestMeasuringPlayerDepth.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\bin\Release\TestMeasuringPlayerDepth.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\obj\x86\Release\TestMeasuringPlayerDepth.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\obj\x86\Release\TestMeasuringPlayerDepth.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestMeasuringPlayerDepth\bin\Release\TestMeasuringPlayerDepth.exe.config

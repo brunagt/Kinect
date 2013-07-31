@@ -1,0 +1,45 @@
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\bin\Debug\TestDepthEnhanced.exe.config
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\bin\Debug\TestDepthEnhanced.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\bin\Debug\TestDepthEnhanced.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced_MarkupCompile.cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.g.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.Properties.Resources.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.csproj.GenerateResource.Cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\bin\Debug\TestDepthEnhanced.exe.config
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\bin\Debug\TestDepthEnhanced.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\bin\Debug\TestDepthEnhanced.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\bin\Debug\TestDepthEnhanced.exe.config
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\bin\Debug\TestDepthEnhanced.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\bin\Debug\TestDepthEnhanced.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Debug\TestDepthEnhanced.csproj.GenerateResource.Cache

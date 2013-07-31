@@ -1,0 +1,24 @@
+C:\Users\Bruna\AppData\Local\Temporary Projects\DepthTargets\bin\Debug\DepthTargets.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\DepthTargets\bin\Debug\DepthTargets.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\DepthTargets\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\DepthTargets\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\DepthTargets\obj\x86\Debug\DepthTargets_MarkupCompile.cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\DepthTargets\obj\x86\Debug\DepthTargets_MarkupCompile.lref
+C:\Users\Bruna\AppData\Local\Temporary Projects\DepthTargets\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\AppData\Local\Temporary Projects\DepthTargets\obj\x86\Debug\DepthTargets.g.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\DepthTargets\obj\x86\Debug\DepthTargets.Properties.Resources.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\DepthTargets\obj\x86\Debug\DepthTargets.csproj.GenerateResource.Cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\DepthTargets\obj\x86\Debug\DepthTargets.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\DepthTargets\obj\x86\Debug\DepthTargets.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\5. Interaction\DepthTargets\DepthTargets\obj\x86\Debug\DepthTargets.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\5. Interaction\DepthTargets\DepthTargets\obj\x86\Debug\DepthTargets.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\5. Interaction\DepthTargets\DepthTargets\bin\Debug\DepthTargets.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\5. Interaction\DepthTargets\DepthTargets\bin\Debug\DepthTargets.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\5. Interaction\DepthTargets\DepthTargets\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\5. Interaction\DepthTargets\DepthTargets\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\5. Interaction\DepthTargets\DepthTargets\obj\x86\Debug\DepthTargets_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\5. Interaction\DepthTargets\DepthTargets\obj\x86\Debug\DepthTargets_MarkupCompile.lref
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\5. Interaction\DepthTargets\DepthTargets\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\5. Interaction\DepthTargets\DepthTargets\obj\x86\Debug\DepthTargets.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\5. Interaction\DepthTargets\DepthTargets\obj\x86\Debug\DepthTargets.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\5. Interaction\DepthTargets\DepthTargets\obj\x86\Debug\DepthTargets.csproj.GenerateResource.Cache

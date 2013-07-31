@@ -1,0 +1,15 @@
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.pdb

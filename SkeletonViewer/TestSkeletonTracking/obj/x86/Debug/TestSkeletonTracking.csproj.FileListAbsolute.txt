@@ -1,0 +1,16 @@
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\bin\Debug\TestSkeletonTracking.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\bin\Debug\TestSkeletonTracking.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\obj\x86\Debug\TestSkeletonTracking_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\obj\x86\Debug\TestSkeletonTracking.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\obj\x86\Debug\TestSkeletonTracking.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\obj\x86\Debug\TestSkeletonTracking.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\obj\x86\Debug\TestSkeletonTracking.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestSkeletonTracking\TestSkeletonTracking\obj\x86\Debug\TestSkeletonTracking.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\SkeletonViewer\TestSkeletonTracking\obj\x86\Debug\TestSkeletonTracking.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\4.Skeleton\SkeletonViewer\TestSkeletonTracking\obj\x86\Debug\TestSkeletonTracking.pdb

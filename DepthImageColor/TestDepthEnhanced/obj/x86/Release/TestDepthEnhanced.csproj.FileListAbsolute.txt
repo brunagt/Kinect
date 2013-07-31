@@ -1,0 +1,46 @@
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Release\MainWindow.baml
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Release\MainWindow.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Release\App.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced_MarkupCompile.cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.g.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.Properties.Resources.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.csproj.GenerateResource.Cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\bin\Release\TestDepthEnhanced.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\bin\Release\TestDepthEnhanced.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestDepthEnhanced\bin\Release\TestDepthEnhanced.exe.config
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\bin\Release\TestDepthEnhanced.exe.config
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\bin\Release\TestDepthEnhanced.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\bin\Release\TestDepthEnhanced.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\bin\Release\TestDepthEnhanced.exe.config
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\bin\Release\TestDepthEnhanced.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\bin\Release\TestDepthEnhanced.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\TestDepthEnhanced\TestDepthEnhanced\obj\x86\Release\TestDepthEnhanced.pdb

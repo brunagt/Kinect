@@ -1,0 +1,11 @@
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\Histograms\Histograms\bin\Release\Histograms.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\Histograms\Histograms\bin\Release\Histograms.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\Histograms\Histograms\obj\x86\Release\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\Histograms\Histograms\obj\x86\Release\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\Histograms\Histograms\obj\x86\Release\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\Histograms\Histograms\obj\x86\Release\Histograms_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\Histograms\Histograms\obj\x86\Release\Histograms.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\Histograms\Histograms\obj\x86\Release\Histograms.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\Histograms\Histograms\obj\x86\Release\Histograms.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\Histograms\Histograms\obj\x86\Release\Histograms.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Tests Beggining Kinect Programming\3.Depth\Histograms\Histograms\obj\x86\Release\Histograms.pdb

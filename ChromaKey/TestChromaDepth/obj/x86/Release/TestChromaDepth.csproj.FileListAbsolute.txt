@@ -1,0 +1,14 @@
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestChromaDepth\obj\x86\Release\MainWindow.baml
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestChromaDepth\obj\x86\Release\MainWindow.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestChromaDepth\obj\x86\Release\App.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestChromaDepth\obj\x86\Release\TestChromaDepth_MarkupCompile.cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestChromaDepth\obj\x86\Release\TestChromaDepth.g.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestChromaDepth\obj\x86\Release\TestChromaDepth.Properties.Resources.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TestChromaDepth\obj\x86\Release\TestChromaDepth.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestChromaDepth\TestChromaDepth\obj\x86\Release\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestChromaDepth\TestChromaDepth\obj\x86\Release\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestChromaDepth\TestChromaDepth\obj\x86\Release\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestChromaDepth\TestChromaDepth\obj\x86\Release\TestChromaDepth_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestChromaDepth\TestChromaDepth\obj\x86\Release\TestChromaDepth.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestChromaDepth\TestChromaDepth\obj\x86\Release\TestChromaDepth.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\TestChromaDepth\TestChromaDepth\obj\x86\Release\TestChromaDepth.csproj.GenerateResource.Cache

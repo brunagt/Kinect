@@ -1,0 +1,59 @@
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\bin\Debug\TrackJoints.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\bin\Debug\TrackJoints.pdb
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Debug\TrackJoints_MarkupCompile.cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Debug\TrackJoints.g.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Debug\TrackJoints.Properties.Resources.resources
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Debug\TrackJoints.csproj.GenerateResource.Cache
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Debug\TrackJoints.exe
+C:\Users\Bruna\AppData\Local\Temporary Projects\TrackJoints\obj\x86\Debug\TrackJoints.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\bin\Debug\TrackJoints.exe
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\bin\Debug\TrackJoints.pdb
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\SkeletonViewer.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\SkeletonViewer.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints_MarkupCompile.lref
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.exe
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\bin\Debug\TrackJoints.exe
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\bin\Debug\TrackJoints.pdb
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\SkeletonViewer.baml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\SkeletonViewer.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\App.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints_MarkupCompile.cache
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints_MarkupCompile.lref
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\MainWindow.baml
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.g.resources
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.Properties.Resources.resources
+C:\Users\Bruna\Documents\Visual Studio 2012\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.csproj.GenerateResource.Cache
+C:\Users\Bruna\Documents\Visual Studio 2010\Projects\Walking Monitoring\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.csprojResolveAssemblyReference.cache
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.exe
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.pdb
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\bin\Debug\TrackJoints.exe
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\bin\Debug\TrackJoints.pdb
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.csprojResolveAssemblyReference.cache
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\SkeletonViewer.baml
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\MainWindow.g.cs
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\SkeletonViewer.g.cs
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\App.g.cs
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints_MarkupCompile.cache
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints_MarkupCompile.lref
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\MainWindow.baml
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.g.resources
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.Properties.Resources.resources
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TrackJoints\TrackJoints\obj\x86\Debug\TrackJoints.csproj.GenerateResource.Cache

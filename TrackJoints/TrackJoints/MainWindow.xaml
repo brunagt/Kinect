@@ -1,0 +1,17 @@
+﻿<Window x:Class="TrackJoints.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:c="clr-namespace:TrackJoints" 
+        Title="Detect joints" Height="480" Width="640">
+    <Grid>
+        <c:SkeletonViewer x:Name="SkeletonViewerElement"/>
+        <Image Name="videoImage" Width="640" Height="480"></Image>
+        <Canvas Background="Transparent">
+            <Ellipse Fill="Red" Height="10" Width="10" Name="ellipseLeftKnee" Stroke="White" />
+            <Ellipse Fill="Red" Height="10" Width="10" Name="ellipseRightKnee" Stroke="White" />
+            <Ellipse Fill="Red" Height="10" Width="10" Name="ellipseLeftFoot" Stroke="White" />
+            <Ellipse Fill="Red" Height="10" Width="10" Name="ellipseRightFoot" Stroke="White" />
+            <Ellipse Fill="Red" Height="10" Width="10" Name="ellipseHip" Stroke="White" />
+        </Canvas>
+    </Grid>
+</Window>

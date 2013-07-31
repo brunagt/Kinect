@@ -1,0 +1,13 @@
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\bin\Debug\TiltKinectFromAndroid.exe.config
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\bin\Debug\TiltKinectFromAndroid.exe
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\bin\Debug\TiltKinectFromAndroid.pdb
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\obj\Debug\TiltKinectFromAndroid.csprojResolveAssemblyReference.cache
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\obj\Debug\MainWindow.baml
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\obj\Debug\MainWindow.g.cs
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\obj\Debug\App.g.cs
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\obj\Debug\TiltKinectFromAndroid_MarkupCompile.cache
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\obj\Debug\TiltKinectFromAndroid.g.resources
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\obj\Debug\TiltKinectFromAndroid.Properties.Resources.resources
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\obj\Debug\TiltKinectFromAndroid.csproj.GenerateResource.Cache
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\obj\Debug\TiltKinectFromAndroid.exe
+C:\Develop\VisualStudioWorkspace\Projects\My programs\TiltKinectFromAndroid\TiltKinectFromAndroid\obj\Debug\TiltKinectFromAndroid.pdb

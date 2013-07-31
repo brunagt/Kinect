@@ -1,0 +1,13 @@
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\bin\Debug\Timelapse.exe.config
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\bin\Debug\Timelapse.exe
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\bin\Debug\Timelapse.pdb
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\obj\Debug\Timelapse.csprojResolveAssemblyReference.cache
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\obj\Debug\MainWindow.baml
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\obj\Debug\MainWindow.g.cs
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\obj\Debug\App.g.cs
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\obj\Debug\Timelapse_MarkupCompile.cache
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\obj\Debug\Timelapse.g.resources
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\obj\Debug\Timelapse.Properties.Resources.resources
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\obj\Debug\Timelapse.csproj.GenerateResource.Cache
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\obj\Debug\Timelapse.exe
+C:\Develop\VisualStudioWorkspace\Projects\My programs\Timelapse\Timelapse\obj\Debug\Timelapse.pdb
